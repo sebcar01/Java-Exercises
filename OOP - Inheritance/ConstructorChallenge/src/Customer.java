@@ -22,7 +22,7 @@ public class Customer {
         return name;
     }
 
-    public double getCreditLimit() {git a
+    public double getCreditLimit() {
         return creditLimit;
     }
 
